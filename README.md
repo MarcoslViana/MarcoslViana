@@ -18,4 +18,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoslViana&layout=compact)](https://github.com/MarcoslViana)
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulofreitasnt&show_icons=true&theme=tokyonight)
