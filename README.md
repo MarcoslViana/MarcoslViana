@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**MarcoslViana/MarcoslViana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, eu sou Marcos Viana!
 
-Here are some ideas to get you started:
+### Onde me encontrar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MarcoslViana)](https://github.com/MarcoslViana)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/marcos-viana-6b48b521a/))](https://www.linkedin.com/in/paulo-freitas-325a7ba9/](https://www.linkedin.com/in/marcos-viana-6b48b521a/))
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:vaina.marcos@academico.ifpb.edu.br)
+
+
+### Sobre mim
+* :school: 
+*
+### Áreas de interesse
+* :closed_book: Atualmente, tenho interesse em segurança de dados
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulofreitasnt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulofreitasnt&show_icons=true&theme=tokyonight)
